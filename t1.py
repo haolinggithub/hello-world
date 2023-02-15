@@ -21,10 +21,10 @@ def solution(S):
 
 
 def f():
-    print('test from master')
+    print('test from master2')
 
 print(solution("?ab??a"))
 print('done')
 
 def f2():
-    print('from feature')
+    print('from feature22')
