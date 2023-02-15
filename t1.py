@@ -20,6 +20,8 @@ def solution(S):
             result[r] = result[l]
 
 
+def f():
+    print('test from master')
 
 print(solution("?ab??a"))
 print('done')
