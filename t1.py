@@ -23,3 +23,6 @@ def solution(S):
 
 print(solution("?ab??a"))
 print('done')
+
+def f2():
+    print('from feature')
