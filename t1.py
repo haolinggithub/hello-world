@@ -22,3 +22,4 @@ def solution(S):
 
 
 print(solution("?ab??a"))
+print('done')
