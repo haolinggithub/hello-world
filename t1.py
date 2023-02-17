@@ -28,3 +28,5 @@ print('done')
 
 def f2():
     print('from feature22')
+
+# test git pull --rebase
